@@ -1,3 +1,3 @@
 # Aula de JavaScript
 
-Aula 10/09/2025
+Aula realizada em 10 de setembro de 2025.
